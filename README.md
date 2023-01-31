@@ -1,0 +1,3 @@
+# python-coffee_machine
+The coffee machine asks for the choice(espresso/latte/cappuccino) of coffee to the user. It then checks for the availabilty of the ingredients and asks user to insert coins to make coffee. If there is insufficient ingredients or insufficient amount given by user, it gives the statement like insufficient ingredients(like milk, water) or insufficient amount and regret to make coffee. 
+The “off” keyword is used for maintenance purpose i.e the machine will be turned off and will not provide any coffee and “report” keyword is used to give the report on available milk, coffee, water and money. 
